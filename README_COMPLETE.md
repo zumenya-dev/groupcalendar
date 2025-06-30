@@ -189,32 +189,4 @@ DEFAULT_CALENDARS: [
 
 このプロジェクトは[MIT License](./LICENSE)の下で公開されています。
 
-## 🙏 謝辞
-
-- [Google Apps Script](https://developers.google.com/apps-script)チーム
-- [Tailwind CSS](https://tailwindcss.com/)コミュニティ
-- すべてのコントリビューター
-
-## 📞 サポート
-
-### 📚 ドキュメント
-- [Google Apps Script公式ドキュメント](https://developers.google.com/apps-script)
-- [Google Calendar API](https://developers.google.com/calendar/api)
-- [Admin Directory API](https://developers.google.com/admin-sdk/directory)
-
-### 💬 コミュニティ
-- [GitHub Discussions](https://github.com/zumenya-dev/groupcalendar/discussions): 質問・アイデア共有
-- [GitHub Issues](https://github.com/zumenya-dev/groupcalendar/issues): バグ報告・機能要望
-
-### 📧 直接連絡
-プライベートな質問や商用利用に関するお問い合わせは、[メール](mailto:contact@example.com)でご連絡ください。
-
 ---
-
-<div align="center">
-
-**⭐ 気に入ったらスターをお願いします！**
-
-Made with ❤️ by [zumenya-dev](https://github.com/zumenya-dev)
-
-</div>

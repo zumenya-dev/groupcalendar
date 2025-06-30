@@ -1,3 +1,5 @@
+# 汎用グループカレンダー
+
 Google Apps Script（GAS）で作成した、個人利用からGoogle Workspace組織利用まで対応可能な汎用グループカレンダーアプリケーションです。
 
 ## 🎯 特徴
@@ -38,9 +40,9 @@ const CONFIG = {
 const CONFIG = {
   USE_GOOGLE_WORKSPACE: true,
   OU_TO_CALENDAR: {
-    \"/Sales\": [{
-      id: \"sales@yourcompany.com\",
-      name: \"営業部カレンダー\"
+    "/Sales": [{
+      id: "sales@yourcompany.com",
+      name: "営業部カレンダー"
     }]
   }
 };
@@ -73,5 +75,3 @@ MIT License
 
 - [Google Apps Script公式ドキュメント](https://developers.google.com/apps-script)
 - [Google Calendar API](https://developers.google.com/calendar/api)
-`
-}
